@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Python ML Toxicity Classifier",
+    "lang": "Python",
+    "desc": "Multi-label text classification using TF-IDF and machine learning models.",
+    "link": "https://github.com/youruser/python-toxicity-classifier"
+  },
+  {
+    "title": "C++ Telecom Microservices",
+    "lang": "C++",
+    "desc": "High-performance microservices for telecom infrastructure.",
+    "link": "https://github.com/youruser/cpp-telecom-services"
+  },
+  {
+    "title": "Rust CLI Tooling",
+    "lang": "Rust",
+    "desc": "Fast, memory-safe command-line utilities for developer workflows.",
+    "link": "https://github.com/youruser/rust-cli-tools"
+  },
+  {
+    "title": "Kotlin Android App",
+    "lang": "Kotlin",
+    "desc": "Modern Android application using Jetpack and clean architecture.",
+    "link": "https://github.com/youruser/kotlin-android-app"
+  },
+  {
+    "title": "QA Automation Framework",
+    "lang": "Testing",
+    "desc": "Automation framework combining Python, Selenium and scripting for regression suites.",
+    "link": "https://github.com/youruser/qa-automation-framework"
+  }
+]

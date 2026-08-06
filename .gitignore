@@ -1,0 +1,38 @@
+# Ignore PowerShell scripts
+*.ps1
+
+# Node modules (if you ever use npm tools)
+node_modules/
+
+# Build output (if you later add bundlers)
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific junk
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# VS Code settings (optional)
+.vscode/
+
+# Python cache (if you use python http.server)
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+*.swp

@@ -1,0 +1,37 @@
+{
+  "site_title": "Portfolio multilingue",
+  "brand_name": "Portfolio multilingue",
+
+  "nav_home": "Accueil",
+  "nav_about": "À propos",
+  "nav_projects": "Projets",
+  "nav_contact": "Contact",
+
+  "hero_title": "Ingénieur tests logiciels et développeur multi-langages",
+  "hero_sub": "Python • C++ • Rust • Kotlin • QA automatisée",
+
+  "home_highlight_title": "Qualité, performance et architecture propre",
+  "home_highlight_text": "Je conçois, développe et teste des applications dans plusieurs langages, avec un fort accent sur la fiabilité et la maintenabilité.",
+  "home_view_projects": "Voir les projets",
+
+  "about_title": "À propos de moi",
+  "about_intro": "Je travaille sur les tests logiciels, le backend, la programmation système et Android avec Python, C++, Rust et Kotlin.",
+  "about_skills_title": "Compétences techniques",
+  "about_experience_title": "Expériences clés",
+  "about_exp_1": "Frameworks de tests logiciels et QA automatisée.",
+  "about_exp_2": "Projets backend et machine learning en Python.",
+  "about_exp_3": "Développement d’applications en C++, Rust et Kotlin.",
+
+  "projects_title": "Projets",
+  "projects_intro": "Une sélection de projets en tests, Python, C++, Rust et Kotlin.",
+  "filter_all": "Tous",
+  "filter_testing": "Tests / QA",
+
+  "contact_title": "Contact",
+  "contact_intro": "N’hésitez pas à me contacter pour une collaboration ou des échanges techniques.",
+  "contact_email_label": "Email",
+  "contact_linkedin_label": "LinkedIn",
+  "contact_github_label": "GitHub",
+
+  "footer_text": "© 2026 Portfolio multilingue. Tous droits réservés."
+}

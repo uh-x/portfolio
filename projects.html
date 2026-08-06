@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title data-lang="projects_title">Projects</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <nav class="nav">
+    <div class="logo" data-lang="brand_name">Portfolio</div>
+    <ul class="nav-links">
+      <li><a href="index.html" data-lang="nav_home"></a></li>
+      <li><a href="about.html" data-lang="nav_about"></a></li>
+      <li><a href="projects.html" data-lang="nav_projects"></a></li>
+      <li><a href="contact.html" data-lang="nav_contact"></a></li>
+    </ul>
+    <select id="langSwitcher">
+      <option value="en">English</option>
+      <option value="ur">اردو</option>
+      <option value="fr">Français</option>
+    </select>
+  </nav>
+</header>
+
+<main class="content">
+  <section>
+    <h1 data-lang="projects_title"></h1>
+    <p data-lang="projects_intro"></p>
+  </section>
+
+  <section class="filters">
+    <button class="btn filter-btn" data-filter="All" data-lang="filter_all"></button>
+    <button class="btn filter-btn" data-filter="Python">Python</button>
+    <button class="btn filter-btn" data-filter="C++">C++</button>
+    <button class="btn filter-btn" data-filter="Rust">Rust</button>
+    <button class="btn filter-btn" data-filter="Kotlin">Kotlin</button>
+    <button class="btn filter-btn" data-filter="Testing" data-lang="filter_testing"></button>
+  </section>
+
+  <section id="project-list" class="project-list"></section>
+</main>
+
+<footer class="site-footer">
+  <p data-lang="footer_text"></p>
+</footer>
+
+<script src="assets/js/lang.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>

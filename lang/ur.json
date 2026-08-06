@@ -1,0 +1,37 @@
+{
+  "site_title": "ملٹی لِنگوئل پورٹ فولیو",
+  "brand_name": "ملٹی لِنگوئل پورٹ فولیو",
+
+  "nav_home": "ہوم",
+  "nav_about": "میرے بارے میں",
+  "nav_projects": "پروجیکٹس",
+  "nav_contact": "رابطہ",
+
+  "hero_title": "سافٹ ویئر ٹیسٹ انجینئر اور ملٹی لینگویج ایپ ڈویلپر",
+  "hero_sub": "Python • C++ • Rust • Kotlin • QA آٹومیشن",
+
+  "home_highlight_title": "کوالٹی، پرفارمنس اور صاف آرکیٹیکچر پر فوکس",
+  "home_highlight_text": "میں مختلف لینگویجز اور پلیٹ فارمز پر ایپلی کیشنز ڈیزائن، ڈیولپ اور ٹیسٹ کرتا ہوں، خاص زور قابلِ اعتماد اور مینٹینیبلٹی پر ہوتا ہے۔",
+  "home_view_projects": "پروجیکٹس دیکھیں",
+
+  "about_title": "میرے بارے میں",
+  "about_intro": "میں سافٹ ویئر ٹیسٹنگ، بیک اینڈ ڈیولپمنٹ، سسٹمز پروگرامنگ اور اینڈرائڈ میں کام کرتا ہوں، Python، C++، Rust اور Kotlin استعمال کرتا ہوں۔",
+  "about_skills_title": "ٹیکنیکل اسکلز",
+  "about_experience_title": "تجربے کی جھلکیاں",
+  "about_exp_1": "سافٹ ویئر ٹیسٹنگ اور QA آٹومیشن فریم ورکس۔",
+  "about_exp_2": "Python بیک اینڈ اور مشین لرننگ پروجیکٹس۔",
+  "about_exp_3": "C++، Rust اور Kotlin ایپلی کیشن ڈیولپمنٹ۔",
+
+  "projects_title": "پروجیکٹس",
+  "projects_intro": "ٹیسٹنگ، Python، C++، Rust اور Kotlin کے منتخب پروجیکٹس۔",
+  "filter_all": "سب",
+  "filter_testing": "ٹیسٹنگ / QA",
+
+  "contact_title": "رابطہ",
+  "contact_intro": "کولیبریشن، فری لانس کام یا ٹیکنیکل ڈسکشن کے لیے رابطہ کریں۔",
+  "contact_email_label": "ای میل",
+  "contact_linkedin_label": "لنکڈ اِن",
+  "contact_github_label": "گِٹ ہب",
+
+  "footer_text": "© 2026 ملٹی لِنگوئل پورٹ فولیو۔ جملہ حقوق محفوظ ہیں۔"
+}

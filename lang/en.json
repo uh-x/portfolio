@@ -1,0 +1,38 @@
+{
+  "site_title": "Multilingual Portfolio",
+  "brand_name": "Multilingual Portfolio",
+
+  "nav_home": "Home",
+  "nav_about": "About",
+  "nav_projects": "Projects",
+  "nav_contact": "Contact",
+
+  "hero_title": "Software Test Engineer & Multi-language App Developer",
+  "hero_sub": "Python • C++ • Rust • Kotlin • QA Automation",
+
+  "home_highlight_title": "Focused on quality, performance and clean architecture",
+  "home_highlight_text": "I design, build and test applications across multiple languages and platforms, with a strong emphasis on reliability and maintainability.",
+  "home_view_projects": "View Projects",
+
+  "about_title": "About Me",
+  "about_intro": "I work across software testing, backend development, systems programming and Android, using Python, C++, Rust and Kotlin.",
+  "about_skills_title": "Technical Skills",
+  "about_experience_title": "Experience Highlights",
+  "about_exp_1": "Software testing and QA automation frameworks.",
+  "about_exp_2": "Python backend and machine learning projects.",
+  "about_exp_3": "C++, Rust and Kotlin application development.",
+
+  "projects_title": "Projects",
+  "projects_intro": "A selection of projects across testing, Python, C++, Rust and Kotlin.",
+  "filter_all": "All",
+  "filter_testing": "Testing / QA",
+
+  "contact_title": "Contact",
+  "contact_intro": "Feel free to reach out for collaboration, freelance work or technical discussions.",
+  "contact_email_label": "Email",
+  "contact_linkedin_label": "LinkedIn",
+  "contact_github_label": "GitHub",
+
+  "footer_text": "© 2026 Multilingual Portfolio. All rights reserved."
+}
+
